@@ -1,0 +1,21 @@
+Dear hiring team,
+
+I am happy to be applying for the Product Data Analyst role at Evoplay. You want an analyst who owns a product area, from KPIs and regular reporting to deep dives and the dashboards people open every morning, and that end-to-end ownership is the work I want to do next.
+
+I am a data analyst with about two years in data roles, first as a consultant for Direct Line Group in London and now in-house at Blue Marketing in Marbella. I write the SQL (window functions, complex joins, query performance tuning), build the Python pipelines that feed the reports, and maintain the Power BI dashboards on top. My MSc in Biological Science (First Class, University of Sheffield) trained me in statistical analysis and hypothesis testing, and I explain findings to non-analysts in plain language.
+
+Revenue dashboards, I develop and maintain semi-automated reports, including daily and weekly revenue dashboards used by the finance team and campaign performance specialists.
+ETL overhaul, I overhauled multiple ETL processes, reducing processing time by 75% on one pipeline and eliminating a dependency on CSV files in another, improving reliability and maintainability.
+SQL at scale, I decommissioned a legacy Redshift database by rewriting pipelines in SQL over billions of rows, delivering a more cost-effective and maintainable solution.
+Reporting migration, I participated in the migration of Qlik dashboards to Tableau by documenting existing logic.
+
+With several studios now releasing games, your product and design teams need KPIs per game they can trust and dashboards that show quickly which mechanics work. The improvements you plan for your BI setup, data models and reporting migration are close to what I did at Direct Line Group, and I check that a number is right before anyone acts on it. When a figure looks wrong, I chase it back to the source.
+
+The first thing I would do when joining would be to check every KPI definition you already have and see which dashboards have them. Then I would check some of these against the data source, and where anomalies arise then I would ask team members about them. This for me to learn more about how you structure things, but I also think that in this way I could add value to your team from day one.
+
+I have not yet run A/B tests on a live product. I have run significance tests such as Student's t-tests, and I want to apply that grounding to game experiments, from sample size to the final read-out.
+
+I can start 15 days after accepting an offer, and I would welcome a conversation about the role.
+
+Best,
+William
