@@ -1,0 +1,12 @@
+Dear hiring team,
+
+I am happy to be applying for the Data Analyst role at Veremark. You want someone to own the dashboards and KPIs a fast-growing company runs on, and that is the work I do now at my company.
+
+I am a data analyst with about two years in data roles, first as a consultant for Direct Line Group in London and now in-house at Blue Marketing in Marbella. I extract, clean and analyse large datasets with SQL and Python, prepare the data behind our Power BI revenue dashboards, and explain the results to non-technical people, including senior management. My MSc in Biological Science (First Class, University of Sheffield) trained me in statistical analysis and hypothesis testing, which helps when a pattern in data needs checking before anyone acts on it.
+
+With an acquired screening platform being brought into Veremark and a second product now live, you now need need one source of truth. The same KPI should give the same number whichever system it comes from. In my first weeks I would map the whole data pipeline from source to dashboard and check that each headline KPI reconciles with its source systems, so the automated dashboards are built on numbers people trust. Your whistleblowing platform also caught my attention, and I am quite interested by the idea. It is a product where reporting protects the people who use it, therefore the data quality needs to absolutely impeccable.
+
+I can start 15 days after accepting an offer, and I would love to have a conversation about the role.
+
+Best regards,
+William
