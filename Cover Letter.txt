@@ -1,0 +1,15 @@
+Affirm's promise of a clear, predictable way to pay over time rests on numbers people can trust, and Revenue Analytics is where those numbers get built. I'd like to help build the semantic layer that lets your revenue teams and your AI systems read them the same way.
+
+I'm a Data Analyst at Blue Marketing in Marbella. I build the Python pipelines that bring client data into MySQL, and I keep that data clean for the daily and weekly revenue dashboards our finance team uses. Before that, I worked for Direct Line Group in London through Katalyze Data, on extract, transform and load (ETL) pipelines and migrations at a much larger scale.
+
+dbt is where I've gone deepest. I hold the dbt Analytics Engineering Certification, and I built a tested dbt project on PostgreSQL with docs, exposures, and generic, singular and dbt_expectations tests.
+
+Decommissioned a legacy Redshift database, by rewriting pipelines in SQL over billions of rows, delivering a more cost-effective and maintainable solution.
+Overhauled multiple ETL processes, reducing processing time by 75% on one pipeline and eliminating a dependency on CSV files in another, improving reliability and maintainability.
+Develop and maintain semi-automated reports, including daily and weekly revenue dashboards used by the finance team and campaign performance specialists.
+Built an end-to-end dbt project, with Python ingestion into a raw schema, then staging, intermediate and mart models for revenue, payment and demand analytics.
+Each growth bet, like Shopify or Affirm Edge, adds new revenue streams and new partner metrics. Those metrics need to be defined once, in tested dbt models, so external merchant reports and AI systems read the same number. In my first weeks, I'd list the revenue metrics behind merchant reporting and the field team's dashboards, trace each one to its dbt model, and add tests and documentation where the definitions disagree.
+
+Semantic layers and AI-ready data are the part I haven't built yet, and they're what I most want to grow into. The dbt foundations are there; revenue data is where I'd like to take the next step.
+
+If it's useful, I can walk you through the dbt project on a call.
