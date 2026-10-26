@@ -1,0 +1,16 @@
+Dear hiring team,
+
+I am happy to be applying to the analytics engineer role at Doodle, and here is why I think I would be a good fit at your team.
+
+Your analytics layer runs on dbt over Amazon Redshift, with Athena alongside it. That is the stack I have worked in, and I would like to be part of it at a company that is still young and growing.
+
+I am a Data Analyst at Blue Marketing in Marbella. I build the Python pipelines that pull client data from APIs and web scraping into MySQL, and I keep that data clean for the daily and weekly revenue dashboards our finance team uses. Before that, I worked for Direct Line Group in London through Katalyze Data, on extract, transform and load (ETL) pipelines and migrations.
+
+dbt is where I've gone deepest. I hold the dbt Analytics Engineering Certification, and I built a tested dbt project on PostgreSQL with incremental models, slowly changing dimension snapshots, generic and dbt_expectations tests, and source freshness checks.
+
+Product A/B testing is the part I haven't done yet, and it's the part I most want to learn. I've got the statistics for it (hypothesis testing, including Student's t-tests), and I'd like to put them to work on experiments with millions of users behind them.
+
+I would love to further discuss the possibility of joining you.
+
+Best,
+William
