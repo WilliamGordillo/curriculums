@@ -1,0 +1,26 @@
+I'm a Spanish and British national, so I hav
+e the full right to work in Spain. No visa, permit or sponsorship needed.
+
+How would you describe your experience with SQL?
+
+It's my strongest skill and I use it every day.
+
+At Direct Line Group (contracted through Katalyze Data) I rewrote the pipelines of a legacy Redshift database in SQL, over billions of rows, so the database could be decommissioned. I also analysed and migrated SAS jobs spanning dozens of scripts and thousands of lines of code, keeping continuity and accuracy throughout.
+
+Day to day I'm comfortable with window functions, complex joins and query performance tuning. In my own dbt project the models are SQL, backed by generic, singular and dbt_expectations tests.
+
+Length: about 520 characters; limit unknown.
+
+Are you confident working with Python?
+
+Yes. At Blue Marketing I build and maintain Python scripts that pull data from client platforms through APIs and web scraping, transform it into the format each destination needs, and load it into our company platform and MySQL.
+
+I've also overhauled several of those ETL processes: one now runs 75% faster, and another no longer depends on CSV files. I use Pandas and NumPy, and the Google Sheets API from Python.
+
+Do you have experience with data pipelines and a data warehouse or lakehouse?
+
+Yes, on the warehouse side. At Direct Line Group I worked on Amazon Redshift, rewriting its pipelines in SQL over billions of rows so it could be decommissioned. I've also worked with Athena and Snowflake.
+
+At Blue Marketing I build and maintain Python ETL pipelines that load client data into MySQL, which feeds Power BI and the daily and weekly revenue reports the finance team uses.
+
+I haven't worked on a lakehouse or Databricks yet. My dbt project (PostgreSQL, staging to marts, incremental models, SCD Type 2 snapshots, tests and source freshness checks) is where I've practised layered modelling, and it's what I'd build on here.
