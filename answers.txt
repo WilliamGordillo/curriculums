@@ -1,0 +1,43 @@
+1. ¿Cuáles son tus expectativas económicas y disponibilidad de incorporación?
+
+Mis expectativas están dentro de la banda publicada, de 42.000 € a 50.000 € brutos anuales. Puedo incorporarme 15 días después de aceptar la oferta.
+
+Length: 148/1500.
+
+2. Comenta, por favor, con qué herramientas ETL has trabajado anteriormente
+
+No he trabajado con SSIS, PowerCenter, Azure Data Factory ni Pentaho. Mis procesos ETL los he construido con código.
+
+En Blue Marketing desarrollo y mantengo scripts de Python que extraen datos de plataformas de clientes mediante APIs y web scraping, los transforman al formato requerido y los cargan en MySQL y en la plataforma de la empresa. He rediseñado varios de esos procesos: en uno reduje el tiempo de procesamiento un 75 % y en otro eliminé la dependencia de ficheros CSV.
+
+Para Direct Line Group reescribí en SQL los pipelines de una base de datos Redshift, sobre miles de millones de filas, y analicé y migré procesos SAS de decenas de scripts y miles de líneas de código.
+
+También tengo la certificación dbt Analytics Engineering y un proyecto propio con dbt. Conozco bien la lógica de extracción, transformación y carga, así que la herramienta concreta sería lo que tendría que aprender.
+
+Length: 900/1500.
+
+3. Comenta brevemente tu experiencia similar al puesto ofertado. ¿Has trabajado en Reporting y Elaboración de Informes?
+
+Sí. En Blue Marketing desarrollo y mantengo informes semiautomatizados, incluidos dashboards diarios y semanales de ingresos que usan el equipo de finanzas y los especialistas en rendimiento de campañas. También mantengo los datos limpios y estructurados en MySQL para el análisis ad hoc y los informes de Power BI.
+
+Para Direct Line Group participé en la migración de dashboards de Qlik a Tableau documentando la lógica existente, y comuniqué hallazgos técnicos a públicos técnicos y no técnicos.
+
+Lo que pide el puesto (extraer y unificar datos de varias fuentes, limpiarlos, escribir consultas SQL y automatizar informes periódicos) es muy parecido a lo que hago a diario.
+
+Length: 675/1500.
+
+4. ¿Tienes disponibilidad para trabajar en turno de tarde (16h a 00h)?
+
+Sí, tengo disponibilidad para trabajar en turno de tarde, de 16:00 a 00:00.
+
+
+Hola:
+
+Me interesa el puesto de Data Engineer en turno de tarde porque se parece mucho a lo que hago a diario en Blue Marketing: extraer datos de distintas fuentes, dejarlos limpios en MySQL y mantener informes semiautomatizados, incluidos los dashboards diarios y semanales de ingresos que usa el equipo de finanzas.
+
+Tengo SQL avanzado, con pipelines reescritos sobre miles de millones de filas para Direct Line Group. Mis procesos ETL están hechos en Python, así que SSIS o una herramienta similar sería lo que tendría que aprender.
+
+Tengo disponibilidad total para el turno de 16:00 a 00:00 y puedo incorporarme en 15 días.
+
+Un saludo,
+William Holt Gordillo
