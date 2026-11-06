@@ -1,0 +1,8 @@
+Hola,
+
+Me interesa el puesto de Data Engineer. porque integrar datos de varias fuentes en pipelines fiables es lo que hago a diario. En Blue Marketing desarrollo scripts de Python que extraen datos de plataformas de clientes mediante APIs, y rediseñé procesos ETL, con un mucho menos de tiempo de procesamiento en varios pipelines. Para Direct Line Group (aseguradora de UK) reescribí en SQL, sobre miles de millones de filas, los pipelines de una base de datos Redshift heredada.
+
+Vivo en Cádiz y puedo incorporarme 15 días después de aceptar una oferta. 
+
+Un saludo,
+William Holt Gordillo
