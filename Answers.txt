@@ -1,0 +1,23 @@
+4. Comenta tu experiencia como Data Engineer
+He trabajado en pipelines de datos en dos empresas.
+
+En Katalyze Data, como Data Engineer para Direct Line Group, desmantelé una base de datos Redshift heredada reescribiendo sus pipelines en SQL sobre miles de millones de filas. También analicé y migré procesos SAS que abarcaban decenas de scripts.
+
+Ahora, como Data Analyst en Blue Marketing, desarrollo y mantengo scripts de Python que extraen datos de plataformas de clientes mediante APIs y web scraping, los transforman y los cargan en MySQL. Además, rediseñé varios procesos ETL, reduciendo un el tiempo de procesamiento de varios pipelines y eliminé la dependencia de archivos CSV en otro.
+
+En cuanto a dbt, tengo la certificación dbt Analytics Engineering y un proyecto personal completo sobre PostgreSQL, con modelos de staging, intermedios y marts, modelos incrementales, tests de calidad de datos y snapshots SCD Type 2 (github.com/WilliamGordillo/dbt-yellow-taxi). Todavía no he usado dbt en un entorno laboral, y es justo el paso que quiero dar. En cloud he trabajado con Redshift y Athena en AWS.
+1068/1500 caracteres
+
+cover letter
+Hola,
+
+Lo que más me atrae de esta oferta es la colaboración estrecha con los equipos de Data Quality y Data Analysts. Vengo de ese lado, mantengo los dashboards diarios y semanales de ingresos que usan finanzas y los especialistas en campañas, así que sé lo que necesita quien consume los datos.
+
+También estoy acostumbrado a explicar lo técnico a perfiles técnicos y no técnicos. Participé en la migración de dashboards de Qlik a Tableau documentando la lógica existente, y mi máster en la Universidad de Sheffield (First Class) me dio una buena base en análisis de datos y estadística.
+
+Hablo inglés y español como lengua nativa, por si el proyecto tiene equipos internacionales.
+
+Vivo en Cádiz (que es una ubicación permitida) y puedo incorporarme 15 días después de aceptar una oferta.
+
+Un saludo,
+William
