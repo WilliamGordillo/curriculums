@@ -1,0 +1,10 @@
+Hi Admetrics team,
+
+I would like to apply for the Junior Data Analyst role as advertised on LinkedIn. Modelling data in dbt is the work I want to do every day, so this position makes sense as a next step for me. I hold the dbt Analytics Engineering Certification and I have built a full dbt project with staging, intermediate and mart models, plus tests: github.com/WilliamGordillo/dbt-yellow-taxi.
+
+At Blue Marketing (retargeted Ads company) I build the Python scripts that pull data from client platforms, and I maintain the daily and weekly revenue dashboards used by finance and campaign specialists. Before that, I rewrote pipelines in SQL over billions of rows for Direct Line Group (a UK insurer).
+
+I can start 15 days after accepting an offer, and I'm based in peninsular Spain on Central European Time. Could you also let me know whether you hire from Spain as an employee? My CV is attached.
+
+Best,
+William Holt Gordillo
