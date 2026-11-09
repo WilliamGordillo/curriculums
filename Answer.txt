@@ -1,0 +1,5 @@
+I got very interested in data at university, using R for research projects, and I have just kept learning more since. So a company whose whole thing is making the analyses more fact based is the kind of thing I have been doing for years.
+
+The role itself is the kind of thing I want to aim my career at. Building dbt models, pulling data in from APIs with Python, and writing tests so nobody is building reports on wrong numbers. I have done the pipeline side, rewriting Redshift pipelines in SQL over billions of rows for Direct Line Group and cutting several ETL processes' run time significantly. With dbt, I have done the certification and built a full personal project with layered models and tests, and now I want to use it every day on a real warehouse.
+
+I also like that data is your main focus here, not a thing you think afterwards. Getting everyone to agree on what revenue or churn actually means sounds like an interesting problem to have, and one have experience with.
