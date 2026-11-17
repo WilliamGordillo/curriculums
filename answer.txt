@@ -1,0 +1,10 @@
+Hola,
+
+Me interesa mucho esta posición de Programador/a Data. Mi día a día de los últimos dos años ha sido justo esto: SQL complejo, Python con Pandas y procesos ETL.
+
+En Direct Line Group reescribí en SQL los pipelines de una base de datos Redshift heredada, sobre miles de millones de filas, y migré jobs de SAS asegurando la continuidad y exactitud de los datos. En Blue Marketing desarrollo scripts en Python que extraen datos de APIs y web scraping y los cargan en MySQL, y rediseñé varios procesos ETL, reduciendo un 75% el tiempo de procesamiento en uno de ellos. Además, he construido un proyecto dbt completo sobre PostgreSQL.
+
+Los procedimientos almacenados y triggers en PostgreSQL son lo que más quiero reforzar, y estoy preparado para la prueba técnica. Busco un proyecto estable en remoto y puedo incorporarme lo antes posible.
+
+Un saludo,
+William
