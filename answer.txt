@@ -1,0 +1,10 @@
+Hi,
+
+I am happy to be applying for the Data Engineer role. Most of my work over the last two years has been exactly what you describe: Python ETL and SQL pipelines, plus making sure the data still matches after it moves.
+
+At Direct Line Group I decommissioned a legacy Redshift database by rewriting its pipelines in SQL over billions of rows, and migrated SAS jobs spanning dozens of scripts while keeping the outputs accurate. At Blue Marketing I build Python ingestion from APIs and web scraping into MySQL, and overhauled our ETL processes, cutting processing time by 75% on one pipeline.
+
+I am based in Spain, fully comfortable working in English, and would love to hear more about the opportunity.
+
+Best regards,
+William
