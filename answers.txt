@@ -1,0 +1,3 @@
+In my professional work I have mainly used Amazon Athena, writing SQL to query and analyse data. At Direct Line Group I also worked with Amazon Redshift, where I decommissioned a legacy database by rewriting its pipelines in SQL over billions of rows.
+
+I am currently studying for the AWS Certified Data Engineer certification, and as part of that I have worked hands-on with AWS Glue and set up S3 buckets with folder structures and partitioned data.
