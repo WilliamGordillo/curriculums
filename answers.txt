@@ -1,0 +1,20 @@
+Summary
+Data analyst and engineer building and owning Python and SQL data pipelines, 
+from landing data out of APIs and client platforms to the reporting models business teams use. 
+At Direct Line Group I helped retire legacy tools: 
+I decommissioned a legacy Redshift database by rewriting its pipelines in SQL over billions of rows and migrated SAS jobs. 
+At Blue Marketing I overhauled ETL processes, cutting processing time by 75% on one pipeline. dbt Analytics Engineering certified,
+ with an end-to-end dbt project (incremental models, SCD Type 2 snapshots, dbt tests and source freshness checks):
+ github.com/WilliamGordillo/dbt-yellow-taxi. MSc-trained analyst, native English and Spanish, used to explaining technical work to non-technical stakeholders.
+
+Cover letter
+Hi,
+
+I am applying for the Data Engineer role in the DASA team. Moving off a legacy warehouse while keeping the data trustworthy is the kind of work I have been doing for the past two years.
+
+At Direct Line Group I decommissioned a legacy Redshift database by rewriting its pipelines in SQL over billions of rows, and migrated SAS jobs spanning dozens of scripts while keeping outputs accurate. At Blue Marketing I build and maintain Python pipelines that pull data from APIs and web scraping into MySQL, and I overhauled our ETL processes, cutting processing time by 75% on one pipeline.
+
+I hold the dbt Analytics Engineering certification and built an end-to-end dbt project on PostgreSQL with incremental models, SCD Type 2 snapshots and tests, so owning dbt models end to end is exactly where I want to be. 
+
+Best regards,
+William
